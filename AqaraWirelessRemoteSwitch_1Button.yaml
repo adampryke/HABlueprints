@@ -10,9 +10,8 @@ blueprint:
       selector:
         target:
           device:
-            integration: deconz
-            manufacturer: LUMI
-            model: lumi.remote.b186acn02
+            manufacturer: Aqara
+            model: WXKG06LM
     button_single_press:
       name: Single press
       description: Action on single press button
