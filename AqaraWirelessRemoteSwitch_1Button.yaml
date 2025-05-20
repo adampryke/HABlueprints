@@ -1,5 +1,5 @@
 blueprint:
-  name: deCONZ - Aqara D1 Wireless Remote Switch (1 Button)
+  name: Aqara D1 Wireless Remote Switch (1 Button)
   description: 'Supported actions: single, double and long press.'
   domain: automation
   source_url: https://community.home-assistant.io/t/deconz-aqara-d1-wireless-remote-switch-1-button-lumi-remote-b186acn02-wxkg03lm/386885
